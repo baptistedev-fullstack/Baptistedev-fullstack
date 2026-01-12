@@ -31,7 +31,7 @@
 ## 📫 Contact
 
 - 📧 Email : [badigonnet@icloud.com](mailto:badigonnet@icloud.com)  
-- 🌐 GitHub : [@Baptistedev-web](https://github.com/Baptistedev-web)
+- 🌐 GitHub : [@Baptistedev-web](https://github.com/Baptistedev-fullstack)
 
 ---
 
